@@ -47,6 +47,7 @@ Welcome to the Contact Management API! This API allows you to manage contacts ef
 - `POST /api/contacts/add`: Add a new contact.
 - `POST /api/auth/login`: User login.
 - `POST /api/auth/register`: User registration.
+- `POST /api/contacts/upload`: Upload contacts via a CSV file.
 
 ## Project Structure
 ```
